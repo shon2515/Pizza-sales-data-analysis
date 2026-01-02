@@ -23,46 +23,50 @@ The main goal is to calculate key performance indicators (KPIs), analyze custome
 - **Microsoft Excel**
   - Pivot Tables  
   - Charts & Visualizations  
-  - Interactive Dashboard  
--
+  - Interactive Dashboard
+    
+## 🔄 Data Preparation & Workflow
+
+Raw transactional pizza sales data was stored in a single table named `pizza_sales`.
+
+### SQL Workflow
+SQL was used to:
+- Aggregate sales and order-level metrics  
+- Calculate key performance indicators (KPIs) such as:
+  - Total Revenue  
+  - Average Order Value (AOV)  
+  - Average Pizzas per Order  
+- Prepare clean, analysis-ready datasets for dashboard visualizations  
+
+Query results were exported to Excel for further analysis and visualization.
 
 ---
 
-## 📊 Key Analysis & Insights
+## 🧮 SQL Analysis
 
-### 1️⃣ KPI Analysis
-- Total Revenue  
-- Total Orders  
-- Total Pizzas Sold  
-- Average Order Value  
-- Average Pizzas per Order  
-
-### 2️⃣ Trend Analysis
-- Orders by **day of the week**  
-- Orders by **hour of the day**  
-- Identification of peak ordering times  
-
-### 3️⃣ Sales Distribution Analysis
-- Revenue by pizza **category**  
-- Revenue by pizza **size**  
-- Comparison of category performance  
-
-### 4️⃣ Product Performance Analysis
-- Top 5 best-selling pizzas  
-- Bottom 5 worst-selling pizzas  
-- Insights for menu optimization  
+SQL was used to:
+- Calculate core business KPIs (Revenue, Orders, AOV)  
+- Analyze daily and hourly order trends  
+- Measure sales contribution by pizza **category** and **size**  
+- Identify top-performing and underperforming pizza products  
+- Create structured datasets optimized for dashboarding  
 
 ---
 
 ## 📈 Excel Dashboard
 
-An interactive Excel dashboard was created to visualize:
-- Key KPIs  
-- Sales trends over time  
-- Category and product performance  
+An interactive Excel dashboard was created to provide actionable business insights.
 
-The dashboard helps stakeholders quickly understand business performance and make informed decisions.
+The dashboard includes:
+- KPI cards for quick performance overview  
+- Daily and hourly order trend visualizations  
+- Sales distribution by pizza category and size  
+- Top 5 best-selling pizzas  
 
+### Interactive Filters (Slicers)
+- Order Date  
+- Pizza Category  
+- Order Day  
 
-
+These features enable fast exploration of sales performance and customer ordering behavior, supporting data-driven decision-making.
 
