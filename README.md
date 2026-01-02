@@ -11,7 +11,7 @@ The main goal is to calculate key performance indicators (KPIs), analyze custome
 
 - Calculate key business KPIs using SQL aggregations  
 - Analyze order trends by **day of week** and **hour of day**  
-- Analyze sales distribution by **pizza category** and **pizza size**  
+- Analyze sales distribution by pizza **category** and **pizza size**  
 - Identify **best-selling** and **worst-selling** pizzas  
 - Build an **interactive Excel dashboard** for business insights  
 
@@ -23,13 +23,16 @@ The main goal is to calculate key performance indicators (KPIs), analyze custome
 - **Microsoft Excel**
   - Pivot Tables  
   - Charts & Visualizations  
-  - Interactive Dashboard
-    
+  - Interactive Dashboard  
+
+---
+
 ## 🔄 Data Preparation & Workflow
 
 Raw transactional pizza sales data was stored in a single table named `pizza_sales`.
 
 ### SQL Workflow
+
 SQL was used to:
 - Aggregate sales and order-level metrics  
 - Calculate key performance indicators (KPIs) such as:
@@ -64,9 +67,9 @@ The dashboard includes:
 - Top 5 best-selling pizzas  
 
 ### Interactive Filters (Slicers)
+
 - Order Date  
 - Pizza Category  
 - Order Day  
 
 These features enable fast exploration of sales performance and customer ordering behavior, supporting data-driven decision-making.
-
