@@ -46,6 +46,13 @@ Query results were exported to Excel for further analysis and visualization.
 ---
 
 ## 🧮 SQL Analysis
+<img width="674" height="431" alt="{6F63C8AE-0AAB-4B8E-825D-3E2077F7EF7E}" src="https://github.com/user-attachments/assets/4bf52e41-ac15-45d1-a6ca-0b1bee2556d1" />
+<img width="484" height="263" alt="{D04B5FA0-AF85-4A29-8962-5FAE99E1325E}" src="https://github.com/user-attachments/assets/bcfd117b-6ee7-4c89-b95f-4d1428328fc3" />
+<img width="546" height="414" alt="{9BF28DF1-B2AF-4668-A27E-4DA6F236DEB4}" src="https://github.com/user-attachments/assets/716116e0-ca9e-434e-98d7-afae3ba87fcb" />
+<img width="427" height="315" alt="{C99FBDB1-86F0-4CF9-AC50-4C8E322E6D8E}" src="https://github.com/user-attachments/assets/e3b775c3-b160-4182-ad4c-07af53f569f7" />
+
+
+
 
 SQL was used to:
 - Calculate core business KPIs (Revenue, Orders, AOV)  
