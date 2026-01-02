@@ -56,7 +56,7 @@ SQL was used to:
 
 ---
 
-## 📈 Excel Dashboard
+## 📈 Excel Dashboard https://github.com/shon2515/Pizza-sales-data-analysis/blob/main/%7BE3FF6CD0-23BD-4F49-B905-B504C98A5A18%7D.png
 
 An interactive Excel dashboard was created to provide actionable business insights.
 
